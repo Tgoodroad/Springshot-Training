@@ -1,10 +1,11 @@
   
+<widget id="Springshot" version="0.0.1">
+
      <platform name="android">
               <name>Springshot Training</name>
               <description>
               A Springshot Workflow Reference guide 
               </description>
-              <app version= "1.1.1" >
               <icon src="res/mipmap-mdpi/ic_launcher.png" density="mdpi" />
               <icon src="res/mipmap-hdpi/ic_launcher.png" density="hdpi" />
               <icon src="res/mipmap-xhdpi/ic_launcher.png" density="xhdpi" />
@@ -12,7 +13,7 @@
 			  <icon src="res/mipmap-xxxhdpi/ic_launcher.png" density="xxxhdpi" />
 			  <icon src="web_hi_res_512.png" density="web_hi_res_512" />
      </platform>
-
+</widget>
 
 
 
