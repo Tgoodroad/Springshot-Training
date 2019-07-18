@@ -1,3 +1,11 @@
+     <?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "https://github.com/Tgoodroad/Springshot-Training.git"
+    xmlns:gap   = "https://build.phonegap.com/apps/3637450/builds"
+    id          = "Springshot Training"
+    versionCode = "10"
+    version     = "2.1.3" 
+
+
      <platform name="android">
               <name>Springshot Training</name>
               <icon src="res/mipmap-mdpi/ic_launcher.png" density="mdpi" />
