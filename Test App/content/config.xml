@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
  <manifest
-    xmlns:android="http://schemas.android.com/apk/res/android"
     android:versionCode="10"
-    android:versionName="1.5.0"
-    android:windowSoftInputMode="0x20"
-    android:installLocation="1"
-    package="com.phonegap.www"
-    platformBuildVersionCode="25"
-    platformBuildVersionName="7.1.1">
+    android:versionName="1.5.0" >
+    
 
 </manifest>
          
