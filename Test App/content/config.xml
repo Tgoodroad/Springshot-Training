@@ -1,6 +1,3 @@
-<widget versionCode = "10"
-        version     = "1.0.0" >
-
 
      <platform name="android">
               <name>Springshot Training</name>
@@ -11,3 +8,6 @@
 			  <icon src="res/mipmap-xxxhdpi/ic_launcher.png" density="xxxhdpi" />
 			  <icon src="web_hi_res_512.png" density="web_hi_res_512" />
      </platform>
+
+     <versionCode = "10" >
+     <version     = "1.0.0" >
