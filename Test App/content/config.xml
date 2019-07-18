@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
- <manifest
-   versionCode="10"
-   versionName="1.5.0" >
-    
+<widget id = "Springshot.training" version = "1.0.2" >
 
-</manifest>
+
          
      <platform name="android">
               <name>Springshot Training</name>
