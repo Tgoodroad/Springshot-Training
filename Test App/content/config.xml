@@ -16,6 +16,8 @@
 			  <icon src="res/mipmap-xxxhdpi/ic_launcher.png" density="xxxhdpi" />
 			  <icon src="web_hi_res_512.png" density="web_hi_res_512" />
      </platform>
+     <plugin name="cordova-plugin-file" spec="~6.0.2" />
+     <plugin name="cordova-plugin-file-transfer" spec="~1.7.1" />
 </widget>
 
 
