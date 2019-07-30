@@ -15,7 +15,7 @@
               <icon src="res/mipmap-xhdpi/xhdpi.png" density="xhdpi" />
               <icon src="res/mipmap-xxhdpi/xxhdpi.png" density="xxhdpi" />
 			  <icon src="res/mipmap-xxxhdpi/xxxhdpi.png" density="xxxhdpi" />
-			  
+			  <splash src="res/splash.png" />
      </platform>
 </widget>
 
