@@ -10,12 +10,12 @@
 			  <author> Travis Goodroad
 	          </author>
 
-              <icon src="res/mipmap-mdpi/ic_launcher.png" density="mdpi" />
-              <icon src="res/mipmap-hdpi/ic_launcher.png" density="hdpi" />
-              <icon src="res/mipmap-xhdpi/ic_launcher.png" density="xhdpi" />
-              <icon src="res/mipmap-xxhdpi/ic_launcher.png" density="xxhdpi" />
-			  <icon src="res/mipmap-xxxhdpi/ic_launcher.png" density="xxxhdpi" />
-			  <icon src="web_hi_res_512.png" density="web_hi_res_512" />
+              <icon src="www/res/mipmap-mdpi/ic_launcher.png" density="mdpi" />
+              <icon src="www/res/mipmap-hdpi/ic_launcher.png" density="hdpi" />
+              <icon src="www/res/mipmap-xhdpi/ic_launcher.png" density="xhdpi" />
+              <icon src="www/res/mipmap-xxhdpi/ic_launcher.png" density="xxhdpi" />
+			  <icon src="www/res/mipmap-xxxhdpi/ic_launcher.png" density="xxxhdpi" />
+			  <icon src="www/web_hi_res_512.png" density="web_hi_res_512" />
      </platform>
 </widget>
 
