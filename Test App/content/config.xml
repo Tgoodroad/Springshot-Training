@@ -1,7 +1,7 @@
   
 <widget id="Springshot.RG" version="0.1.4">
 
-
+<preference name="phonegap-version" value="cli-9.0.0" />
      <platform name="android">
               <name>Springshot Training</name>
               <description>
@@ -10,11 +10,11 @@
 			  <author> Travis Goodroad
 	          </author>
 
-              <icon src="res/mipmap-mdpi/ic_launcher.png" density="mdpi" />
-              <icon src="res/mipmap-hdpi/ic_launcher.png" density="hdpi" />
-              <icon src="res/mipmap-xhdpi/ic_launcher.png" density="xhdpi" />
-              <icon src="res/mipmap-xxhdpi/ic_launcher.png" density="xxhdpi" />
-			  <icon src="res/mipmap-xxxhdpi/ic_launcher.png" density="xxxhdpi" />
+              <icon src="res/mipmap-mdpi/mdpi.png" density="mdpi" />
+              <icon src="res/mipmap-hdpi/hdpi.png" density="hdpi" />
+              <icon src="res/mipmap-xhdpi/xhdpi.png" density="xhdpi" />
+              <icon src="res/mipmap-xxhdpi/xxhdpi.png" density="xxhdpi" />
+			  <icon src="res/mipmap-xxxhdpi/xxxhdpi.png" density="xxxhdpi" />
 			  <icon src="web_hi_res_512.png" density="web_hi_res_512" />
      </platform>
 </widget>
