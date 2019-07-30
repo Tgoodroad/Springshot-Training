@@ -1,6 +1,6 @@
   
 <widget id="Springshot.RG" version="0.1.4">
-
+<preference name="android-targetSdkVersion" value="28" />
 <preference name="phonegap-version" value="cli-9.0.0" />
      <platform name="android">
               <name>Springshot Training</name>
