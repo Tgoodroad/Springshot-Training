@@ -2,14 +2,14 @@
 <widget id="Springshot.RG" version="0.2.7">
 <plugin name="cordova-plugin-splashscreen" spec="~5.0.3" />
 <preference name="phonegap-version" value="cli-9.0.0" />
-     <platform name="android">
               <name>Springshot Training</name>
               <description>
               A Springshot Workflow Reference Guide 
               </description>
 			  <author> Travis Goodroad
-	          </author>
-
+	          </author> 
+     <platform name="android">
+             
               <icon src="res/mipmap-mdpi/mdpi.png" density="mdpi" />
               <icon src="res/mipmap-hdpi/hdpi.png" density="hdpi" />
               <icon src="res/mipmap-xhdpi/xhdpi.png" density="xhdpi" />
